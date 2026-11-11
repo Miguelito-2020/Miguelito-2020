@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Miguelito-2020">
-   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Miguelito-2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-stats-extended.vercel.app/api?username=Miguelito-2020&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=blue_navy)"/>
+   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Miguelito-2020&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Miguelito-2020&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
